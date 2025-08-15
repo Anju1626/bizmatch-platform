@@ -19,4 +19,8 @@ Keen eye on intuitive product flow.
 
 https://github.com/user-attachments/assets/beeb1405-af4a-4c2e-a75e-6942f2a1fe47
 
-
+# Screenshot
+<img width="786" height="670" alt="Screenshot 2025-08-15 at 12 32 42 PM" src="https://github.com/user-attachments/assets/fa1858be-3ed8-4467-9217-be43ffa07769" />
+<img width="779" height="433" alt="Screenshot 2025-08-15 at 12 32 51 PM" src="https://github.com/user-attachments/assets/1dabe020-fdd6-49c3-9206-0fb403112064" />
+<img width="786" height="534" alt="Screenshot 2025-08-15 at 12 32 59 PM" src="https://github.com/user-attachments/assets/488f9dd2-5ed6-412f-9638-b93565a730dc" />
+<img width="786" height="484" alt="Screenshot 2025-08-15 at 12 33 49 PM" src="https://github.com/user-attachments/assets/aa90ae68-4f6d-4576-a61c-315c2a8293b1" />
