@@ -14,3 +14,9 @@ Your unique design ability and style. Make sure that you are giving us your best
 Ability to make sense of business objectives and turn them into effective product designs.
 Keen eye on intuitive product flow.
 (major bonus) if you have frontend engineering experience.
+
+# Demo Video
+
+https://github.com/user-attachments/assets/beeb1405-af4a-4c2e-a75e-6942f2a1fe47
+
+
