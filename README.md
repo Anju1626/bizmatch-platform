@@ -1,71 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # bizmatch-platform
+
+We’re developing a digital platform to connect potential business buyers and sellers. Similar to Bumble’s model, we’re flipping the traditional approach by having sellers initiate contact with buyers. After a match occurs, we guide both parties through the acquisition process using streamlined workflows and platform tools to modernize a very manual process and ultimately maximize deal success.We want the design language to feel approachable. colors and interface should be inviting for both parties; perhaps even a sense of ease in an already difficult and time-consuming deal process.
+
+Fully design a platform UI for the following. Context: stub out sections of the platform interface to show they exist (settings, profile, navigation, etc.):
+
+Separate buyer and seller onboarding questionnaires (this occurs right as signup). Choose any types of questions you want, we are looking more into how you design this overall workflow than the quality of questions. feel free to be unique.
+Design buyer profiles that sellers can accept or reject. What essential buyer information would you display on these cards to make it better for sellers to make a decision at a glance? what would this look like expanded as a full profile?
+Consider that a potential buyer and seller has matched and now we want to design the platform’s acquisition process to maximize deal completion rates. There are a lot of friction points in this process. Your design should address these friction points. Feel free to integrate AI solution if they are applicable.
+For example an AI solution would be something like a financial document analyzer and summarizer.
+
+We are looking for:
+Your unique design ability and style. Make sure that you are giving us your best work!
+Ability to make sense of business objectives and turn them into effective product designs.
+Keen eye on intuitive product flow.
+(major bonus) if you have frontend engineering experience.
